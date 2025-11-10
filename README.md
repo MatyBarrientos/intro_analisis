@@ -1,15 +1,14 @@
 # Introducción al Análisis de Datos — Parcial N.º 2
 
 > **Lenguaje:** Java (Aplicación de Consola)
-
+> **IDE:** VS Code
 Este repositorio contiene la solución del **Parcial N.º 2** de la materia *Introducción al Análisis de Datos*.  
-El proyecto implementa una aplicación de consola en Java orientada al procesamiento y análisis básico de datos.
 
 ## 👥 Integrantes
 
-- Barrientos Matías  
-- Fondati Veliz, Bruno  
-- Moyano Camila
+- Barrientos Matías  leg 30899
+- Fondati Veliz, Bruno  leg 30970
+- Moyano Camila leg 30488
 ## 📽️ Videos (YouTube)
 
 - **Código:** https://www.youtube.com/watch?v=ycPHj6_pRHE  
@@ -25,3 +24,4 @@ El proyecto implementa una aplicación de consola en Java orientada al procesami
 - Lectura de datos desde  entrada estándar.
 - Cálculos estadísticos básicos (conteos, promedios, fórmula del interés compuesto.).
 - Salida formateada en consola.
+
