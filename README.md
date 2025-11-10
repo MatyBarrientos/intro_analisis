@@ -1,18 +1,27 @@
-## Getting Started
+# Introducción al Análisis de Datos — Parcial N.º 2
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+> **Lenguaje:** Java (Aplicación de Consola)
 
-## Folder Structure
+Este repositorio contiene la solución del **Parcial N.º 2** de la materia *Introducción al Análisis de Datos*.  
+El proyecto implementa una aplicación de consola en Java orientada al procesamiento y análisis básico de datos.
 
-The workspace contains two folders by default, where:
+## 👥 Integrantes
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+- Barrientos Matías  
+- Fondati Veliz, Bruno  
+- Moyano Camila
+## 📽️ Videos (YouTube)
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+- **Código:** https://www.youtube.com/watch?v=ycPHj6_pRHE  
+  [![Miniatura Código](https://img.youtube.com/vi/ycPHj6_pRHE/0.jpg)](https://www.youtube.com/watch?v=ycPHj6_pRHE)
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+- **Explicación:** https://www.youtube.com/watch?v=i3GtLnW1gig  
+  [![Miniatura Explicación](https://img.youtube.com/vi/i3GtLnW1gig/0.jpg)](https://www.youtube.com/watch?v=i3GtLnW1gig)
 
-## Dependency Management
+---
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+## ✨ Características
+
+- Lectura de datos desde  entrada estándar.
+- Cálculos estadísticos básicos (conteos, promedios, fórmula del interés compuesto.).
+- Salida formateada en consola.
